@@ -5,6 +5,7 @@ seoDescription: "Master GitHub Markdown with our ultimate cheat sheet! Learn ess
 datePublished: Sun Jun 23 2024 19:27:13 GMT+0000 (Coordinated Universal Time)
 cuid: clxrxxcyl000209l0avclgp1f
 slug: github-markdown-cheatsheet
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1719172549028/7f2d5070-4a45-49b2-8424-447838434007.webp
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1719170783241/89bcf378-bfc3-4b2e-8a45-c38c9c9ab013.webp
 tags: github, markdown, git, cheatsheet
 
